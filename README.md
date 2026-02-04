@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parsae80
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Computer Science in the University of Tehran
+- 🌱 I’m currently learning Computer Science at the Concordia University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
                     email: parsae1380@gmail.com
